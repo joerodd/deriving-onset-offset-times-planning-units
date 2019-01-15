@@ -1,12 +1,14 @@
 # Deriving the onset and offset times of planning units from acoustic and articulatory measurements
-Joe Rodd 1,2 
-Hans Rutger Bosker 1,3
-Louis ten Bosch 2,1,3
-Mirjam Ernestus 2,1
+[Joe Rodd <sup>1,2</sup>](https://www.mpi.nl/people/rodd-joe)
+[Hans Rutger Bosker <sup>1,3</sup>](https://www.mpi.nl/people/bosker-hans-rutger)
+[Louis ten Bosch <sup>2,1,3</sup>](https://www.ru.nl/english/people/bosch-l-ten/)
+[Mirjam Ernestus <sup>2,1</sup>](http://www.mirjamernestus.nl)
 
 1) Max Planck Institute for Psycholinguistics, P.O. Box 310, 6500 AH, Nijmegen, The Netherlands
 2) Radboud University, Centre for Language Studies, P.O. Box 9103, 6500 HD, Nijmegen, The Netherlands
 3) Radboud University, Donders Institute for Brain, Cognition and Be- haviour, P.O. Box 9104, 6500 HE, Nijmegen, The Netherlands
+
+> Many psycholinguistic models of speech sequence planning make claims about the onset and offset times of planning units, such as words, syllables, and phonemes. These predictions typically go untested, however, since psycholinguists have assumed that the temporal dynamics of the speech signal is a poor index of the temporal dynamics of the underlying speech planning process. It is argued that this problem is tractable, and two simple metrics that derive planning unit onset and offset times from the acoustic signal and articulatographic data are presented and validated.
 
 # This repository
 
